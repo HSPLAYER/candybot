@@ -1,0 +1,2 @@
+# candybot
+yakşklı candy  bot
